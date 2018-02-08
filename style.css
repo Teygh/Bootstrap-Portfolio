@@ -1,0 +1,35 @@
+.container{
+    margin-top: 30px;
+    /* border: 2px solid black; */
+}
+
+.col-md-12{
+    font-size: 3rem;
+    font-weight: bold;
+    /* border: solid 2px black; */
+}
+
+.col-md-3{
+    margin-top: 20px;
+    font-size: 70%;
+    /* border: solid 2px black; */
+}
+
+.col-md-2{
+    margin-top: 40px;
+    font-size: 70%;
+    /* border: solid 2px black; */
+    
+}
+
+.col-md-6{
+    margin-top: 40px;
+    margin-bottom: 500px; 
+    font-size: 70%;
+    /* border: solid 2px black; */
+}
+
+.content{
+    border: solid 2px black;
+    padding: 10px;
+}s
